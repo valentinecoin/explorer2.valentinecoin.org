@@ -1,13 +1,13 @@
-var api = 'http://explorer.brazukcoin.org:44043';
-var blockTargetInterval = 240;
+var api = 'http://explorer.valentinecoin.org:45888';
+var blockTargetInterval = 120;
 var coinUnits = 1000000000000;
-var symbol = 'BZK';
+var symbol = 'VAY';
 var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
-    "bzk": [
-		["pool.brazukcoin.org", "http://pool.brazukcoin.org:8117"],
-		["pool.brazukcoin.space", "http://pool.brazukcoin.space:8117"]
+    "vay": [
+//		["pool.valentinecoin.org", "http://pool.valentinecoin.org:8117"],
+		["pool.valentinecoin.space", "http://pool.valentinecoin.space:8117"]
 //		["krb.dreampool.info", "https://krb.dreampool.info/api"]
 		
     ]
