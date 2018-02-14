@@ -1,9 +1,9 @@
-# Brazukcoin-Blockchain-Explorer
-Block explorer for Brazukcoin CryptoNote based cryptocurrency.
+# Valentinecoin-Blockchain-Explorer
+Block explorer for Valentinecoin CryptoNote based cryptocurrency.
 
 #### Installation
 
-1) It takes data from daemon brazukcoind. It should be accessible from the Internet. Run brazukcoind with open port as follows:
+1) It takes data from daemon valentinecoind. It should be accessible from the Internet. Run valentinecoind with open port as follows:
 ```bash
 ./valentinecoind --restricted-rpc --enable-cors=* --enable-blockchain-indexes --rpc-bind-ip=0.0.0.0 --rpc-bind-port=45888
 ```
