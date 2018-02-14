@@ -1,6 +1,6 @@
 var api = 'http://explorer.valentinecoin.org:45888';
 var blockTargetInterval = 120;
-var coinUnits = 1000000000000;
+var coinUnits = 100000000000;
 var symbol = 'VAY';
 var refreshDelay = 30000;
 // pools stats by MainCoins
